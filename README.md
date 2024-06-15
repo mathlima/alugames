@@ -31,5 +31,3 @@ A ideia principal do projeto é fazer com que a pessoa que for utilizar o sistem
 <h1 align="center"> Autor </h1>
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/52716331?v=4" width=115><br><sub>Matheus Lima</sub>](https://github.com/mathlima)
-
-https://avatars.githubusercontent.com/u/52716331?v=4
