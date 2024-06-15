@@ -4,7 +4,7 @@
 
 <h1 align="center"> Índice </h1>
 
-* [Título e Imagem de capa](#AluGames)
+* [Título e Imagem de capa]( #AluGames )
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
